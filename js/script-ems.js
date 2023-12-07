@@ -112,7 +112,7 @@ function buildGrid(employees) {
                 <td>${employee[2]}</td>
                 <td>${employee[3]}</td>
                 <td>${employee[4]}</td>
-                <td><button class='btn btn-danger btn-sm float-end delete'></button></td>
+                <td><button class='btn btn-danger btn-sm delete'>X</button></td>
             </tr>
         `
     }
